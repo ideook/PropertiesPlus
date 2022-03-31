@@ -6,6 +6,8 @@ if (typeof PropertiesPlus == 'undefined')
 // the current selection
 let currentSelection;
 
+
+
 // this is the history we're operating in
 let nHistoryID;
 let historyDepth = 0;
